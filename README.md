@@ -17,7 +17,7 @@ Technologies Used
 - JavaScript (DOM, localStorage, FileReader API)
 
 Live Demo
-- [Open the project here]()
+- [Open the project here](https://rw-28.github.io/student-id-generator/)
 
 What I Learned
 - Working with **localStorage** to pass data between pages.  
