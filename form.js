@@ -1,4 +1,3 @@
-console.log("JS работает!");
 document.getElementById("form").addEventListener("submit", function(e) {
     e.preventDefault();
 
@@ -23,3 +22,4 @@ document.getElementById("form").addEventListener("submit", function(e) {
         reader.readAsDataURL(photo);
       }
 });
+
