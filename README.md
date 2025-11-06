@@ -37,3 +37,8 @@ Project Structure
 ├── ticket.js
 ├── styles.css
 └── images/
+
+Future Plans
+- Add “Download as PDF” option.
+- Add color themes and responsive layout.
+- Save student data to a backend database.
