@@ -1,0 +1,135 @@
+/* general styles */
+body {
+    height: 100%;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width: 970px;
+
+    padding: 0 15px;
+    margin: 0 auto;
+
+    text-align: center;
+
+    background-image: url("./images/boliviainteligente-Zs7IokljzTM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-logo {
+    height: 80px;
+    width: 300px;
+    display: block;
+    margin: 25px auto 40px;
+}
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+
+    font-size: 40px;
+}
+.form-text {
+    font-size: 25px;
+    margin: 5px;
+    margin-bottom: 40px;
+}
+ /* form styles */
+#form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: left;
+    margin-bottom: 20px;
+
+    color: hsl(0, 0%, 0%);
+    font-weight: 900;
+}
+label {
+    font-size: 22px;
+}
+input {
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    font-size: 16px;
+
+    background-color: rgba(255, 255, 255, 0.5);
+    color: rgb(3, 3, 3);
+}
+.photo-upload {
+    display: inline-block;
+    padding: 10px 5px;
+    background-color: rgba(215,65,21,255);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+button {
+    height: 55px;
+
+    font-size: 19px;
+    font-weight: 700;
+
+    background-color: rgba(215,65,21,255);
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    margin-top: 25px;
+}
+
+/* ticket file styles */
+.card-container {
+    position: relative;
+    height: 300px;
+    width: 550px;
+
+    margin: 100px auto;
+    background-color: rgba(215,65,21,255);
+
+    border-radius: 10px;
+
+    text-align: left;
+}
+.card-container::after {
+    background: url("./images/360_F_272405230_QNEo0D1JYD3w7cCbFoGKeJdgJNc4zmXG.jpg");
+    z-index: 1000;
+}
+.basic-info {
+    margin: 15px;
+}
+.main-text {
+    font-size: 22px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+#default-text {
+    color:hsl(0, 6%, 20%);
+}
+span {
+    margin-bottom: 3px;
+}
+#user-photo {
+    position: absolute;
+    top: 45px;
+    left: 370px;
+    margin: 10px;
+}
+.identity-card {
+    margin-top: 0;
+}
+.barcode {
+    position: absolute;
+    top: 210px;
+    width: 350px;
+    height: 50px;
+    margin: 20px;
+}
+#id-number {
+    position: absolute;
+    top: 220px;
+    left: 410px;
+    font-size: 22px;
+    font-weight: 500;
+}

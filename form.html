@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student ID Generator</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <header class="header">
+        <img src="./images/Oregon State University.png" alt="" class="header-logo">
+    </header>
+
+    <main class="main">
+        <h1 class="form-heading">Welcome to University of Oregon.</h1>
+        <p class="form-text">Fill out the From to get your Student ID Card.</p>
+
+        <div class="container">
+            <form id="form">
+
+                <label for="full-name">Enter your Full Name :</label>
+                <input type="text" id="full-name">
+    
+                <label for="date-of-birth">Enter your Date of Birth :</label>
+                <input type="text" id="date-of-birth">
+    
+                <label for="phone-number">Enter your Phone Number :</label>
+                <input type="text" id="phone-number">
+    
+                <label for="university-course-name">Enter your Course Name :</label>
+                <input type="text" id="university-course-name">
+    
+                <label class="photo-upload" for="photo">Upload your Photo </label>
+                <input type="file" id="photo" accept="image/*" hidden>
+    
+                <button type="submit">Get My Student ID Card</button>
+            </form>
+        </div>
+        
+    </main>
+    <script src="form.js"></script>
+</body>
+</html>
