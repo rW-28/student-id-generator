@@ -27,7 +27,8 @@ What I Learned
 
 Screenshots
 <img width="1920" height="887" alt="Снимок экрана 2025-11-06 181954" src="https://github.com/user-attachments/assets/6bd2075c-7099-4a74-86f4-cc656490a142" />
-<img width="1920" height="881" alt="Снимок экрана 2025-11-06 182208" src="https://github.com/user-attachments/assets/f6b16d5e-bc13-4a0f-aa9c-130f8861255d" />
+<img width="1920" height="881" alt="Снимок экрана 2025-11-06 182208" src="https://github.com/user-attachments/assets/94c61326-c208-46d4-a764-a46334ff3c80" />
+
 
 
 Project Structure
