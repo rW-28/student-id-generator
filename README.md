@@ -26,8 +26,9 @@ What I Learned
 - Structuring a small front-end project and publishing it online.
 
 Screenshots
-<img width="1920" height="887" alt="Снимок экрана 2025-11-06 181954" src="https://github.com/user-attachments/assets/6bd2075c-7099-4a74-86f4-cc656490a142" />
-<img width="1920" height="881" alt="Снимок экрана 2025-11-06 182208" src="https://github.com/user-attachments/assets/94c61326-c208-46d4-a764-a46334ff3c80" />
+<img width="1871" height="883" alt="Снимок экрана 2025-11-07 173715" src="https://github.com/user-attachments/assets/e077ed55-b6fa-47b6-baeb-0428b7478cc6" />
+<img width="1920" height="888" alt="Снимок экрана 2025-11-07 173701" src="https://github.com/user-attachments/assets/b6f97ec1-3477-4ba3-9bb1-71e5127d850a" />
+
 
 
 
